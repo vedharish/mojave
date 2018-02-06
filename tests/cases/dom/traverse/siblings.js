@@ -1,5 +1,4 @@
 import {findOne, siblings} from "../../../../dom/traverse";
-import QUnit from "qunitjs";
 
 QUnit.module("dom/traverse/siblings()",
     {

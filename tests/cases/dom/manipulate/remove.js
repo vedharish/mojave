@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import {findOne} from "../../../../dom/traverse";
 import {remove} from "../../../../dom/manipulate";
 

@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import {replaceAll} from "../../../../string/manipulate";
 
 QUnit.module("string/manipulate/replaceAll()");

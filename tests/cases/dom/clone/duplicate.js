@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import {children} from "../../../../dom/traverse";
 import {createElement} from "../../../../dom/manipulate";
 import {duplicate} from "../../../../dom/clone";

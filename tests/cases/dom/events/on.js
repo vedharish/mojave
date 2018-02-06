@@ -1,5 +1,4 @@
 import {off, on, trigger} from "../../../../dom/events";
-import QUnit from "qunitjs";
 import {findOne} from "../../../../dom/traverse";
 
 QUnit.module("dom/events/on()", {

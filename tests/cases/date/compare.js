@@ -1,5 +1,4 @@
 import {isSameDay, isSameTimestamp} from "../../../date/compare";
-import QUnit from "qunitjs";
 
 QUnit.module("date/compare");
 

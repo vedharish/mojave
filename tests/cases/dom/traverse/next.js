@@ -1,5 +1,4 @@
 import {findOne, next} from "../../../../dom/traverse";
-import QUnit from "qunitjs";
 
 QUnit.module("dom/traverse/next()",
     {

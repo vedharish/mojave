@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import Slug from "../../../url/Slug";
 
 QUnit.module("url/Slug");

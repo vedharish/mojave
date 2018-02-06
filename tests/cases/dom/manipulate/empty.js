@@ -1,5 +1,4 @@
 import {find, findOne} from "../../../../dom/traverse";
-import QUnit from "qunitjs";
 import {empty} from "../../../../dom/manipulate";
 
 QUnit.module("dom/manipulate/empty()",

@@ -1,7 +1,6 @@
 /* eslint-disable no-empty-function */
 
 import {delegate, off} from "../../../../dom/events";
-import QUnit from "qunitjs";
 import {findOne} from "../../../../dom/traverse";
 
 

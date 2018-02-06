@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import {createElement} from "../../../../dom/manipulate";
 
 QUnit.module("dom/manipulate/createElement()");

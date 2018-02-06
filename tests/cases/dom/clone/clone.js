@@ -1,5 +1,4 @@
 import {on, trigger} from "../../../../dom/events";
-import QUnit from "qunitjs";
 import {children} from "../../../../dom/traverse";
 import {clone} from "../../../../dom/clone";
 import {findOne} from "../../../../dom/traverse";

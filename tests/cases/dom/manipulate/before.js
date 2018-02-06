@@ -1,6 +1,5 @@
 import {before, createElement} from "../../../../dom/manipulate";
 import {find, findOne} from "../../../../dom/traverse";
-import QUnit from "qunitjs";
 
 QUnit.module("dom/manipulate/before()",
     {

@@ -1,5 +1,4 @@
 import {filter, find, findOne} from "../../../../dom/traverse";
-import QUnit from "qunitjs";
 
 QUnit.module("dom/traverse/filter()",
     {

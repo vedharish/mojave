@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import {merge} from "../../../extend";
 
 QUnit.module("extend/merge()");

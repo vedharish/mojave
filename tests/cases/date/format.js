@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import {formatRelative} from "../../../date/format";
 
 QUnit.module("date/format");

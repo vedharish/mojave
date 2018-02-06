@@ -1,4 +1,3 @@
-import QUnit from "qunitjs";
 import {on, trigger} from "../../../../dom/events";
 import {findOne} from "../../../../dom/traverse";
 
