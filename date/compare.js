@@ -39,7 +39,6 @@ export function isSameTimestamp (date, otherDate)
  *
  * @param {Date} date
  * @param {Date} otherDate
- * @param {boolean} includeTimeCheck
  */
 export function isBeforeDate (date, otherDate)
 {
@@ -93,11 +92,11 @@ export function compareDate (date, otherDate,)
  */
 export function compareTimestamp (date, otherDate)
 {
-    const compareDate = compareDate(date, otherDate);
+    const dateComparison = compareDate(date, otherDate);
 
-    if (0 !== compareDate)
+    if (0 !== dateComparison)
     {
-        return compareDate;
+        return dateComparison;
     }
 
     const compareHour = compare(date.getHours(), otherDate.getHours());
