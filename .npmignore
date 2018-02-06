@@ -1,6 +1,7 @@
 /.gitignore
 /.npmignore
 /.travis.yml
+/browserstack.json
 /kabafile.js
 /karma.conf.js
 /node_modules
